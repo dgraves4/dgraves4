@@ -19,8 +19,8 @@ I hold a Master of Science in Data Analytics from Northwest Missouri State Unive
 
 ## Featured Projects
 
-### [Team Indie Success](https://github.com/dgraves4/team-indie-success)  
-Predicting indie game success on Steam using machine learning. This project analyzes user reviews and game metadata to identify key factors influencing game popularity and success.
+### [Seam Indie Success](https://github.com/dgraves4/steam-indie-success)  
+Master's Capstone Project. Predicting indie game success on Steam using machine learning algorithms. This project analyzes user reviews and game metadata to identify key factors influencing game popularity and success.  Includes an Overleaf report with detailed visualizations and meaningful conclusions. 
 
 ### [ML Model Deployment](https://github.com/dgraves4/ml-jupyterlab6-model-deployment)  
 Deployed a machine learning model as a web service using Flask, enabling real-time predictions via API endpoints.
