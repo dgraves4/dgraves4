@@ -28,8 +28,8 @@ Deployed a machine learning model as a web service using Flask, enabling real-ti
 ### [Streaming Auction Tracker](https://github.com/dgraves4/streaming-07-auction-tracker)  
 A real-time auction tracking system utilizing RabbitMQ for streaming and analyzing bid data, with custom producers and consumers.
 
-### [Ensemble Learning](https://github.com/dgraves4/ml-jupyterlab5-ensemble)  
-Explored ensemble methods for improving model accuracy by combining predictions from multiple machine learning algorithms.
+### [NBA Stat Tracker Dashboard](https://github.com/dgraves4/cintel-06-custom)  
+Developed an interactive NBA stat tracker using PyShiny to display player and team performance metrics. Enabled dynamic filtering and visualization of key basketball statistics for data-driven insights.
 
 ### [Healthcare EDA](https://github.com/dgraves4/ml-jupyterlab2-dataset)  
 Conducted exploratory data analysis on healthcare datasets to uncover demographic and geographic trends impacting outcomes.
